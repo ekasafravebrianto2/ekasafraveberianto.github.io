@@ -1,4 +1,4 @@
 # Prakerin
 
-Website Portofolio - Syahdan Hafiz Ashari / XI TKJ 1
-https://portofolio-pkl.netlify.app/
+Website Portofolio - Eka safra vebrianto / XI TKJ 1
+file:///C:/Users/Lenovo/Desktop/nizzzzzz/index.html
